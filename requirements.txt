@@ -1,2 +1,4 @@
-python-snappy
+click
 plotly
+python-snappy
+zstd
